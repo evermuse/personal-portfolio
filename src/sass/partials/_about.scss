@@ -1,0 +1,30 @@
+#about {
+
+	height: 150px;
+	border-bottom: 1px solid black;
+	position: relative;
+	margin: 25px 0 25px 0;
+
+	img { 
+
+		display: inline-block;
+		height: 95px;
+		width: 95px;
+		margin-top: 20px;
+
+
+	}
+
+	p {
+		
+		display: inline-block;
+		padding: 0 0 0 25px;
+		font-size: 20px;
+		text-align: center;
+		height:100px;
+		position: absolute;
+		top: 35%;
+		/* margin-top: -50px;*/
+	}
+
+}
